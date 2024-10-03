@@ -1,0 +1,6 @@
+- Add different pickups - done
+- Make a sound when out of ammo as an audible que - DONE
+- Add some different zombie variants - done
+- Fix the hit box - DONE
+- New weapons - done
+- increase pick up drop rates as you progress through waves - DONE
