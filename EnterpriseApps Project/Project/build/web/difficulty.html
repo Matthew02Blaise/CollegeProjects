@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Difficulty</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div>
+            <form action="difficultyData" method="POST">
+                <br> <br> <br>
+                NAME:<input type="text" name="name">
+                DIFFICULTY PLAYED ON:<input type="text" name="difficulty">
+                <br><br><br>
+                <input type="submit" value="Submit"/>
+            </form>
+            <br><br><br>
+            <h3>Delete Difficulty data</h3>
+            <br><br><br>
+            <form action="deleteDifficulty" method="POST">
+                <br> <br> <br>
+                NAME:<input type="text" name="name">
+                <br><br><br>
+                <input type="submit" value="Delete"/>
+            </form>
+        </div>
+    </body>
+</html>
