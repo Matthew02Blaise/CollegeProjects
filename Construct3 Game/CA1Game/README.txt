@@ -1,0 +1,1 @@
+To play the game please open construct 3 then select open and then select the downloaded FrogsRevenge.c3p file. Select the start layout then press the play icon at the bar on the top
