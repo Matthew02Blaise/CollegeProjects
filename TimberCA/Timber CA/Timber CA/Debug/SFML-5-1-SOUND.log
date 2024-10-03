@@ -1,0 +1,15 @@
+﻿  Timber.cpp
+C:\2dgd\classroom code\SFML-5-1-SOUND\SFML-5-1-SOUND\code\Timber.cpp(372,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\2dgd\classroom code\SFML-5-1-SOUND\SFML-5-1-SOUND\code\Timber.cpp(432,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\2dgd\classroom code\SFML-5-1-SOUND\SFML-5-1-SOUND\code\Timber.cpp(516,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\2dgd\classroom code\SFML-5-1-SOUND\SFML-5-1-SOUND\code\Timber.cpp(520,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\2dgd\classroom code\SFML-5-1-SOUND\SFML-5-1-SOUND\code\Timber.cpp(549,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\2dgd\classroom code\SFML-5-1-SOUND\SFML-5-1-SOUND\code\Timber.cpp(553,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\2dgd\classroom code\SFML-5-1-SOUND\SFML-5-1-SOUND\code\Timber.cpp(580,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\2dgd\classroom code\SFML-5-1-SOUND\SFML-5-1-SOUND\code\Timber.cpp(584,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\2dgd\classroom code\SFML-5-1-SOUND\SFML-5-1-SOUND\code\Timber.cpp(611,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\2dgd\classroom code\SFML-5-1-SOUND\SFML-5-1-SOUND\code\Timber.cpp(615,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\2dgd\classroom code\SFML-5-1-SOUND\SFML-5-1-SOUND\code\Timber.cpp(650,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\2dgd\classroom code\SFML-5-1-SOUND\SFML-5-1-SOUND\code\Timber.cpp(680,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\2dgd\classroom code\SFML-5-1-SOUND\SFML-5-1-SOUND\code\Timber.cpp(759,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  SFML-5-1-SOUND.vcxproj -> C:\2dgd\classroom code\SFML-5-1-SOUND\Debug\SFML-5-1-SOUND.exe
