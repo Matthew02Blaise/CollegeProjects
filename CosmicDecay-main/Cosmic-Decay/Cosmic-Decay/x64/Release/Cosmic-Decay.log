@@ -1,0 +1,464 @@
+﻿  AmmoPickup.cpp
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Arm.cpp
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Bullet.cpp
+  CoreyAbility.cpp
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  DetectCollisions.cpp
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\DetectCollisions.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\DetectCollisions.cpp(15,16): warning C4244: '=': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\DetectCollisions.cpp(16,17): warning C4244: '=': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\DetectCollisions.cpp(38,81): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\DetectCollisions.cpp(38,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\DetectCollisions.cpp(42,44): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\DetectCollisions.cpp(51,19): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\DetectCollisions.cpp(52,18): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\DetectCollisions.cpp(60,47): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  Draw.cpp
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Enemy.cpp
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Enemy.cpp(11,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Enemy.cpp(41,19): warning C4305: '=': truncation from 'double' to 'float'
+  Engine.cpp
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Engine.cpp(63,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Engine.cpp(64,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Engine.cpp(67,52): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Engine.cpp(67,38): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Engine.cpp(80,18): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Engine.cpp(129,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Engine.cpp(135,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Engine.cpp(135,30): warning C4305: 'argument': truncation from 'double' to 'float'
+  Fuses.cpp
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  HealthPickup.cpp
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  HUD.cpp
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\HUD.cpp(28,38): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\HUD.cpp(35,40): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\HUD.cpp(42,38): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\HUD.cpp(49,39): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\HUD.cpp(56,39): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\HUD.cpp(61,41): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\HUD.cpp(66,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Input.cpp
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Input.cpp(11,8): warning C4101: 'event2': unreferenced local variable
+  LevelManager.cpp
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\LevelManager.cpp(74,26): warning C4267: '=': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\LevelManager.cpp(122,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\LevelManager.cpp(122,16): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\LevelManager.cpp(125,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\LevelManager.cpp(125,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\LevelManager.cpp(128,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\LevelManager.cpp(128,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\LevelManager.cpp(131,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\LevelManager.cpp(131,17): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\LevelManager.cpp(137,19): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\LevelManager.cpp(140,27): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\LevelManager.cpp(140,14): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\LevelManager.cpp(143,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\LevelManager.cpp(143,14): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\LevelManager.cpp(146,27): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\LevelManager.cpp(245,40): warning C4267: '=': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  LoadLevel.cpp
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\LoadLevel.cpp(56,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\LoadLevel.cpp(56,27): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\LoadLevel.cpp(56,39): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\LoadLevel.cpp(70,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\LoadLevel.cpp(70,29): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\LoadLevel.cpp(70,42): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\LoadLevel.cpp(84,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\LoadLevel.cpp(84,27): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\LoadLevel.cpp(84,40): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\LoadLevel.cpp(107,38): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\LoadLevel.cpp(108,43): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\LoadLevel.cpp(109,43): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\LoadLevel.cpp(110,43): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\LoadLevel.cpp(111,38): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\LoadLevel.cpp(115,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\LoadLevel.cpp(116,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\LoadLevel.cpp(117,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Main.cpp
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  MatthewAbility.cpp
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  PlayableCharacter.cpp
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.cpp(84,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.cpp(86,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.cpp(89,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.cpp(90,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.cpp(105,22): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.cpp(113,37): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.cpp(117,22): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.cpp(128,22): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.cpp(140,22): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.cpp(157,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.cpp(159,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.cpp(162,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.cpp(163,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.cpp(171,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.cpp(172,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.cpp(173,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.cpp(174,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.cpp(191,21): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.cpp(193,21): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.cpp(202,21): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.cpp(204,21): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.cpp(216,21): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.cpp(218,21): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.cpp(229,21): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.cpp(231,21): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.cpp(453,22): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.cpp(455,28): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.cpp(459,21): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.cpp(461,27): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Player.cpp
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Player.cpp(225,25): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Player.cpp(227,31): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Player.cpp(231,24): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Player.cpp(233,30): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  ScoreBoard.cpp
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\ScoreBoard.cpp(61,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\ScoreBoard.cpp(62,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Shuttle.cpp
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Compiling...
+  stdafx.cpp
+  SzymonAbility.cpp
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  TextureHolder.cpp
+  Update.cpp
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Update.cpp(30,44): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Update.cpp(31,44): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Update.cpp(32,44): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Update.cpp(124,12): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Update.cpp(125,12): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Update.cpp(126,12): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Update.cpp(127,12): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Update.cpp(163,12): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Update.cpp(164,12): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Update.cpp(165,12): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Update.cpp(166,12): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Update.cpp(211,12): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Update.cpp(212,12): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Update.cpp(213,12): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Update.cpp(214,12): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  ZachAbility.cpp
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2948 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Cosmic-Decay.vcxproj -> C:\CosmicDecay\Cosmic-Decay\x64\Release\Cosmic-Decay.exe

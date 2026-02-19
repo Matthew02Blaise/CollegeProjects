@@ -1,0 +1,31 @@
+﻿  Engine.cpp
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Engine.cpp(63,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Engine.cpp(64,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Engine.cpp(67,52): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Engine.cpp(67,38): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Engine.cpp(80,18): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Engine.cpp(129,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Engine.cpp(135,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Engine.cpp(135,30): warning C4305: 'argument': truncation from 'double' to 'float'
+  Input.cpp
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\PlayableCharacter.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\CosmicDecay\Cosmic-Decay\Cosmic-Decay\code\Input.cpp(11,8): warning C4101: 'event2': unreferenced local variable
+  Generating Code...
+  Cosmic-Decay.vcxproj -> C:\CosmicDecay\Cosmic-Decay\x64\Debug\Cosmic-Decay.exe

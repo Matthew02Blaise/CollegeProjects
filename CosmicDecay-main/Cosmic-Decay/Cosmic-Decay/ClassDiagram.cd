@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Abilities" Collapsed="true">
+    <Position X="4.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQABAAAAAAAAAAAkAAAAAAAAABAAAAAAAEAEAAA=</HashCode>
+      <FileName>code\Abilities.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AmmoPickup" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>code\AmmoPickup.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arm" Collapsed="true">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAiCAAAAMAAAAAAAAAAAAA=</HashCode>
+      <FileName>code\Arm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bullet" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACIAAEAGgAIAIAAAAAAAAgAAAgQAAAAAAAEQQUAAA=</HashCode>
+      <FileName>code\Bullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoreyAbility" Collapsed="true">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAgAAAAAAAAkAAAAAAAAABAAAAAAAAAEBAA=</HashCode>
+      <FileName>code\CoreyAbility.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy" Collapsed="true">
+    <Position X="1" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAgAAAAAAAAJAAQAAABAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>code\Enemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Engine" Collapsed="true">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>OAZgMoAIAOogyUE0QBfcAgBg2MhqADS3hBAYqwgMCQI=</HashCode>
+      <FileName>code\Engine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fuses" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>code\Fuses.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HealthPickup" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>code\HealthPickup.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hud" Collapsed="true">
+    <Position X="12.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCQAQgAAIAAEABAAAgEAEAIAAAAgCgCCIAAIAIAggAA=</HashCode>
+      <FileName>code\HUD.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelManager" Collapsed="true">
+    <Position X="14.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAIAgREAgAAQAIAAAABAAAAAEAAUAAARkBBA=</HashCode>
+      <FileName>code\LevelManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MatthewAbility" Collapsed="true">
+    <Position X="1" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABgAAAAAAAAAAkACAAAAAAABAAAAAAAABEAAA=</HashCode>
+      <FileName>code\MatthewAbility.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayableCharacter" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>sIKAoVAAgHAQIBBIQZAAAQAhPAYQBjFBBBIGBQAlAEM=</HashCode>
+      <FileName>code\PlayableCharacter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player" Collapsed="true">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIKAIBAAABAggCFIgYoAAMACAAAAMgAKAkIBIQAEIAA=</HashCode>
+      <FileName>code\Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SzymonAbility" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgBACAAAAAAAAAkAAAAAAAAABAAAAAAAAAEAAA=</HashCode>
+      <FileName>code\SzymonAbility.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextureHolder" Collapsed="true">
+    <Position X="16" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAgAAAAAAAAAQAAAAAg=</HashCode>
+      <FileName>code\TextureHolder.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZachAbility" Collapsed="true">
+    <Position X="3.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAQAAkAAAAAAAAABAQAAAAAgAEAAA=</HashCode>
+      <FileName>code\ZachAbility.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
